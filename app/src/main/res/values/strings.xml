@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inspirations</string>
+    <string name="date1">Day 1</string>
+    <string name="description1">Put some time on your calendar to take a walk outside or maybe even take a meeting while you are strolling through the neighbourhood</string>
+    <string name="title1">Spend 15 minutes Outdoors</string>
+    <string name="date2">Day 2</string>
+    <string name="date3">Day 3</string>
+    <string name="date4">Day 4</string>
+    <string name="date5">Day 5</string>
+    <string name="date6">Day 6</string>
+    <string name="date7">Day 7</string>
+    <string name="date8">Day 8</string>
+    <string name="date9">Day 9</string>
+    <string name="date10">Day 10</string>
+    <string name="date11">Day 11</string>
+    <string name="date12">Day 12</string>
+    <string name="date13">Day 13</string>
+    <string name="date14">Day 14</string>
+    <string name="date15">Day 15</string>
+    <string name="date16">Day 16</string>
+</resources>
